@@ -1,3 +1,3 @@
-# Tick-Tack-Toe-Games
+# Tick-Tac-Toe-Games
 
-All versions of Tick Tack Toe I've wrote myself or by fallowing turtorials. 
+All versions of Tick Tac Toe I've wrote myself or by fallowing turtorials. 
